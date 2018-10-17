@@ -1,0 +1,2 @@
+global.choix=0;
+
