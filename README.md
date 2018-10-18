@@ -1,2 +1,2 @@
-# Projets_Game_Maker_Studio_2
+# Projets Game Maker Studio 2
 Répertoire des différents projets GMS2
